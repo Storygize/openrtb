@@ -4,6 +4,7 @@
   <artifactId>openrtb-core</artifactId>
   <packaging>jar</packaging>
   <name>Google OpenRTB Core</name>
+  <version>storygize-0.9.5</version>
 
   <parent>
     <groupId>com.google.openrtb</groupId>

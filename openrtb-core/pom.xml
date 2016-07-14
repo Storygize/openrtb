@@ -4,11 +4,12 @@
   <artifactId>openrtb-core</artifactId>
   <packaging>jar</packaging>
   <name>Google OpenRTB Core</name>
+  <version>storygize-1.0.5</version>
 
   <parent>
     <groupId>com.google.openrtb</groupId>
     <artifactId>openrtb-parent</artifactId>
-    <version>storygize-1.0.5</version>
+    <version>1.0.5</version>
   </parent>
 
   <dependencies>
